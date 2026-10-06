@@ -97,8 +97,8 @@ Step numbers refer to the steps in `plan.md`. Screenshots are in [`docs/evidence
 ## Submission (step 13)
 
 - [x] Everything I did not finish is listed below, with the reason.
-- [ ] Pull request opened from `dev-test01` into my own fork, not the real CVAT project. Proof: _link added when opened_
-- [ ] Video of 5 minutes or less, answering the four questions. Proof: _link added when recorded_
+- [x] Pull request opened from `dev-test01` into my own fork, not the real CVAT project. Proof: https://github.com/Ahmed-Silat/cvat/pull/1 (into `develop`, my fork's main branch). I first opened it against the real CVAT project by mistake ([cvat-ai/cvat#11270](https://github.com/cvat-ai/cvat/pull/11270)) and closed it without merging.
+- [x] Video of 5 minutes or less, answering the four questions. Proof: https://www.loom.com/share/c7d3386051bf4e19af033b0fb56649e3
 
 ## Not finished
 
